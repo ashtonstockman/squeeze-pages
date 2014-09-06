@@ -1,0 +1,6 @@
+E:\Projects\squeeze-pages\squeeze-pages\bin\squeeze-pages.dll.config
+E:\Projects\squeeze-pages\squeeze-pages\bin\squeeze-pages.dll
+E:\Projects\squeeze-pages\squeeze-pages\bin\squeeze-pages.pdb
+E:\Projects\squeeze-pages\squeeze-pages\bin\System.Web.Mvc.xml
+E:\Projects\squeeze-pages\squeeze-pages\obj\Debug\squeeze-pages.dll
+E:\Projects\squeeze-pages\squeeze-pages\obj\Debug\squeeze-pages.pdb
